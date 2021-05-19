@@ -1,2 +1,2 @@
 Django==3.2.3
-Pillow @ file:///C:/ci/pillow_1603823068645/work
+Pillow==7.0.0
